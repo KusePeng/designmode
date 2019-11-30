@@ -1,4 +1,4 @@
-package proxy;
+package proxy.dynamic;
 
 /**
  * @description: 动态代理测试客户端

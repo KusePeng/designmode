@@ -1,4 +1,4 @@
-package proxy;
+package proxy.dynamic;
 
 /**
  * @description: 代理接口

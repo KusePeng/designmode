@@ -1,4 +1,4 @@
-package proxy;
+package proxy.dynamic;
 
 /**
  * @description: 目标对象
